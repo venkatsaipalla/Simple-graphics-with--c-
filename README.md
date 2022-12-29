@@ -4,3 +4,7 @@
 # Dominos Logo
 
 [domino.webm](https://user-images.githubusercontent.com/72677771/209982496-baad6b3d-1bd2-4c94-bded-9ef1fc5325bb.webm)
+
+# Instagram Logo
+
+[instagram.webm](https://user-images.githubusercontent.com/72677771/209982801-e7151fd5-ef0b-41f5-b79c-924a7bea5355.webm)
